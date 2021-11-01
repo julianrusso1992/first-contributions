@@ -3198,4 +3198,5 @@ Disguy
 - [Daniel Pankratov](https://github.com/DanielPankratov)
 - [Ziyue Zhou](https://github.com/ziyue5)
 - [Prakita Renatin](https://github.com/Rakagami)
+- [Julián Russo](https://github.com/julianrusso92)
 <!-- prettier-ignore-end -->
